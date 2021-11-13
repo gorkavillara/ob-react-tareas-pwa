@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/ob-react-tareas-pwa/static/css/main.dd782c00.chunk.css",
+    "main.js": "/ob-react-tareas-pwa/static/js/main.d608b89d.chunk.js",
+    "main.js.map": "/ob-react-tareas-pwa/static/js/main.d608b89d.chunk.js.map",
+    "runtime-main.js": "/ob-react-tareas-pwa/static/js/runtime-main.04a31833.js",
+    "runtime-main.js.map": "/ob-react-tareas-pwa/static/js/runtime-main.04a31833.js.map",
+    "static/js/2.670a4219.chunk.js": "/ob-react-tareas-pwa/static/js/2.670a4219.chunk.js",
+    "static/js/2.670a4219.chunk.js.map": "/ob-react-tareas-pwa/static/js/2.670a4219.chunk.js.map",
+    "index.html": "/ob-react-tareas-pwa/index.html",
+    "service-worker.js": "/ob-react-tareas-pwa/service-worker.js",
+    "service-worker.js.map": "/ob-react-tareas-pwa/service-worker.js.map",
+    "static/css/main.dd782c00.chunk.css.map": "/ob-react-tareas-pwa/static/css/main.dd782c00.chunk.css.map",
+    "static/js/2.670a4219.chunk.js.LICENSE.txt": "/ob-react-tareas-pwa/static/js/2.670a4219.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.04a31833.js",
+    "static/js/2.670a4219.chunk.js",
+    "static/css/main.dd782c00.chunk.css",
+    "static/js/main.d608b89d.chunk.js"
+  ]
+}
